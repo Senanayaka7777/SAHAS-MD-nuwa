@@ -3,7 +3,7 @@ require("dotenv").config();
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "0Dsl3BTS#_RTZrh9_uS7QpVPoy71igKVzDPJDjChXO_jnL8-j75E",
+  SESSION_ID: process.env.SESSION_ID || "9aNFUBoL#kOMHLC1u4AxVeZUzY0vtekTtnjkvL5D43Rm57yJ7SqA",
   // ADD Your Session Id 
   MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
     // ADD Your MongoDB Database URL
@@ -15,7 +15,7 @@ module.exports = {
   // public = AnyOne Working
   // inbox = Only Working  Inbox
   // groups = only working in group
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "94721026632",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "94767409175",
   //========================================- OTHER - CONFIGS -=====================================================================
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
@@ -55,7 +55,7 @@ module.exports = {
 
 *🔹 PREFIX:* .
 
-*🔹 OWNER:* 94720126632
+*🔹 OWNER:* 94767409175
 
 
 _Thank you for using_ *👨‍💻SAHAS-MD💗.*
