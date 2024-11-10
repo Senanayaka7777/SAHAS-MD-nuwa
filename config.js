@@ -78,5 +78,5 @@ _*👨‍💻 Enjoy your time with us! 😊*_
   MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/de82e3.jpg",
   MENU_MSG: process.env.MENU_MSG || `Menumsg`,
     MENU_MS: process.env.MENU_MS || `menu 2`,
-
+yarn start 
 };
